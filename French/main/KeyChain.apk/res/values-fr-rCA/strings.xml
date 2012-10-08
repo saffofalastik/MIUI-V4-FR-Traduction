@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clé USB</string>
+    <string name="title_no_certs">Aucun certificat trouvé</string>
+    <string name="title_select_cert">Sélection du certificat</string>
+    <string name="requesting_application">"L'application %s a fait une demande de certificat. La sélection d'un certificat permet à l'application d'utiliser cette identité vis-à-vis des serveurs dès maintenant."</string>
+    <string name="requesting_server">"L'application a identifié le serveur qui a émis la demande en tant que %s, mais vous ne devez accorder l'accès de l'application au certificat que si vous faites confiance à cette application."</string>
+    <string name="install_new_cert_message" formatted="false">"L'installation des certificats peut s'effectuer à partir d'un fichier PKCS#12 dont l'extension est %1$s ou  %2$s se trouvant sur un support de stockage externe."</string>
+    <string name="install_new_cert_button_label">Installer</string>
+    <string name="allow_button">Autoriser</string>
+    <string name="deny_button">Refuser</string>
+</resources>
