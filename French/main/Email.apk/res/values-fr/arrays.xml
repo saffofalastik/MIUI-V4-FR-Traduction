@@ -78,9 +78,9 @@
         <item>@string/account_settings_vibrate_when_never</item>
     </array>
     <string-array name="account_settings_vibrate_when_values">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
+        <item>Toujours</item>
+        <item>En silencieux</item>
+        <item>Jamais</item>
     </string-array>
     <array name="general_preference_auto_advance_entries">
         <item>@string/general_preference_auto_advance_newer</item>
@@ -88,9 +88,9 @@
         <item>@string/general_preference_auto_advance_message_list</item>
     </array>
     <string-array name="general_preference_auto_advance_values">
-        <item>newer</item>
-        <item>older</item>
-        <item>list</item>
+        <item>Plus reccent</item>
+        <item>Plus ancien</item>
+        <item>liste</item>
     </string-array>
     <array name="general_preference_text_zoom_entries">
         <item>@string/general_preference_text_zoom_tiny</item>
@@ -100,11 +100,11 @@
         <item>@string/general_preference_text_zoom_huge</item>
     </array>
     <string-array name="general_preference_text_zoom_values">
-        <item>tiny</item>
-        <item>small</item>
+        <item>minuscule</item>
+        <item>petit</item>
         <item>normal</item>
         <item>large</item>
-        <item>huge</item>
+        <item>enorme</item>
     </string-array>
     <array name="mailbox_display_names">
         <item>@string/mailbox_name_display_inbox</item>
@@ -142,11 +142,11 @@
         <item>25</item>
     </integer-array>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Très petits caractères</item>
-        <item>Petits caractères</item>
-        <item>Caractères de taille normale</item>
-        <item>Grands caractères</item>
-        <item>Très grands caractères</item>
+        <item>Très petits caracteres</item>
+        <item>Petits caracteres</item>
+        <item>Caracteres de taille normale</item>
+        <item>Grands caracteres</item>
+        <item>Tres grands caracteres</item>
     </string-array>
     <string-array name="general_preference_text_zoom_size">
         <item>0.8</item>

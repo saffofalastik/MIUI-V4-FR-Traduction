@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded with KDG BigBlackBox-->
+<resources>
+    <string name="app_label">Rechercher fournisseur d'applications</string>
+    <string name="search_label">Apps</string>
+    <string name="application_desc">Application</string>
+    <string name="settings_description">Noms des applications installees</string>
+</resources>

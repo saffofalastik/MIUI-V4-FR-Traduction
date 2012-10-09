@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="app_label">Referentiel de contenu, protege par DRM</string>
+  <string name="permdesc_accessDrm">Permet a l'application d'acceder a du contenu protege par DRM.</string>
+  <string name="permdesc_installDrm">Permet a l'application de definir le contenu DRM protege.</string>
+  <string name="permlab_accessDrm">L'acces au contenu DRM.</string>
+  <string name="permlab_installDrm">Reglage de contenus proteges par DRM.</string>
+</resources>

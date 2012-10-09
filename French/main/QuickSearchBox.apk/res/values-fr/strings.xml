@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+    <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+    <string name="apps_search_activity" />
+    <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
+    <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+    <string name="default_search_domain">.google.com</string>
+    <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+    <string name="app_name">Recherche</string>
+    <string name="search_widget">Recherche</string>
+    <string name="remove_from_history">"Supprimer de l'historique de recherche"</string>
+    <string name="remove_from_history_failed">"Impossible de supprimer l'objet de l'historique de recherche"</string>
+    <string name="corpus_selection_heading">Recherche</string>
+    <string name="corpus_label_global">Tout</string>
+    <string name="corpus_label_web">Web</string>
+    <string name="corpus_description_web">Recherche web, signets et marque-pages</string>
+    <string name="corpus_label_apps">Apps</string>
+    <string name="corpus_description_apps">Noms des applications installées</string>
+    <string name="corpus_hint_apps">Rechercher une application</string>
+    <string name="menu_settings">Paramètres de recherche</string>
+    <string name="search_settings">Paramètres de recherche</string>
+    <string name="google_settings_category_title">Google Search</string>
+    <string name="device_settings_category_title">Supprimer les raccourcis</string>
+    <string name="system_search_category_title">Téléphone</string>
+    <string name="search_sources">Objets découvrables</string>
+    <string name="search_sources_summary">"Choisissez le type d'objet à rechercher"</string>
+    <string name="clear_shortcuts">Supprimer les raccourcis</string>
+    <string name="clear_shortcuts_summary">Supprimer les raccourcis des suggestions de recherche récemment effectuées</string>
+    <string name="clear_shortcuts_prompt">"Ceci nettoiera tous les raccourcis.
+
+(Pour nettoyer l'historique de navigation, rendez vous dans les paramètres du navigateur.)"</string>
+    <string name="clear_shortcuts_agree">Supprimer</string>
+    <string name="clear_shortcuts_disagree">Ne pas supprimer</string>
+    <string name="menu_help">Aide</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_app_label">Google Search</string>
+    <string name="google_search_hint">Google Search</string>
+    <string name="google_search_description">Suggestions Google Search</string>
+    <string name="voice_search_hint_title">Essayez de dire:</string>
+    <string name="voice_search_hint_quotation_start">“</string>
+    <string name="voice_search_hint_quotation_end">”</string>
+</resources>

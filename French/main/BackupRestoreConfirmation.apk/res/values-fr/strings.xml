@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="allow_backup_button_label">Creez une copie de sauvegarde des donnees</string>
+  <string name="allow_restore_button_label">Restauration</string>
+  <string name="backup_confirm_text">"Voulez vous autoriser faire une copie de sauvegarde de toutes les donnees? Si vous n'avez pas demande cela, ne permettez pas l'operation"</string>
+  <string name="backup_confirm_title">Sauvegarde complete</string>
+  <string name="backup_enc_password_optional">Pour crypter les donnees, entrez un mot de passe</string>
+  <string name="backup_enc_password_text">Entrez le mot de passe pour crypter la sauvegarde. Si le champ est laisse vide, le mot de passe actuel sera utilise:</string>
+  <string name="current_password_text">Entrez un mot de passe pour la sauvegarde:</string>
+  <string name="deny_backup_button_label">Ne pas sauvegarder</string>
+  <string name="deny_restore_button_label">Ne pas restaurer</string>
+  <string name="device_encryption_backup_text">Entrez le mot de passe de la sauvegarde.</string>
+  <string name="device_encryption_restore_text">Entrez le mot de passe pour restaurer.</string>
+  <string name="restore_confirm_text">"Voulez vous effectuer la restauration des donnees de la sauvegarde? Si vous n'avez pas demande cela, ne permettez pas l'operation; cela va ecraser toutes les donnees du telephone"</string>
+  <string name="restore_confirm_title">Restauration complete</string>
+  <string name="restore_enc_password_text">Si les donnees récuperees sont cryptees, entrez le mot de passe:</string>
+  <string name="toast_backup_ended">Sauvegarde Terminee</string>
+  <string name="toast_backup_started">Sauvegarde...</string>
+  <string name="toast_restore_ended">Restauration terminee</string>
+  <string name="toast_restore_started">Restauration...</string>
+  <string name="toast_timeout">Temps depasse</string>
+</resources>
