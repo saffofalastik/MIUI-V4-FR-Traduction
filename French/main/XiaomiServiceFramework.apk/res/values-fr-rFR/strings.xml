@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XiaoMi Service Framework</string>
+    <string name="account">Compte</string>
+    <string name="account_hint_text">Email/Numéro de téléphone</string>
+    <string name="login">"S'identifier"</string>
+    <string name="basic_info">Informations basiques</string>
+    <string name="next">Suivant</string>
+    <string name="prev">Précédent</string>
+    <string name="forget_password"><u>Mot de passe oublié?</u></string>
+    <string name="password">mot de passe</string>
+    <string name="password_hint_text">6~16 caractères</string>
+    <string name="bad_authentication">Authentification échoué, identifiant ou/et mot de passe incorrect</string>
+    <string name="micloud_welcome_banner">Compte XIAOMI</string>
+    <string name="micloud_welcome_skip_login"><u>Passer cette étape </u></string>
+    <string name="micloud_account_name">Compte XIAOMI</string>
+    <string name="micloud_title">MiCloud</string>
+    <string name="micloud_log_prompt">Me connecter à mon compte XIAOMI</string>
+    <string name="micloud_use_existing">Existant</string>
+    <string name="micloud_reg_new">Nouveau</string>
+    <string name="micloud_error_empty_username">"Un champ n'est pas complété"</string>
+    <string name="micloud_error_empty_pwd">"Un champ n'est pas complété"</string>
+    <string name="micloud_error_illegal_pwd">mot de passe incorrect</string>
+    <string name="micloud_input_email_prompt">Saisissez votre Email</string>
+    <string name="micloud_email">Adresse Email</string>
+    <string name="micloud_input_password_prompt">Saisissez un mot de passe</string>
+    <string name="micloud_password_confirm_hint">Confirmez le mot de passe</string>
+    <string name="micloud_password_req_notice">8~16 caractères, peut contenir des chiffres et des lettres (sensible à la casse).</string>
+    <string name="micloud_password_error_inconsistent">Les mots de passe ne correspondent pas</string>
+    <string name="micloud_val_sms_alert">Un SMS va être envoyé afin de confirmer votre numéro de téléphone, continuer?</string>
+    <string name="micloud_error_email">Email invalide</string>
+    <string name="micloud_account">Compte XIAOMI</string>
+    <string name="micloud_activing_account">Activation de votre compte</string>
+    <string name="micloud_waiting">En attente...</string>
+    <string name="micloud_account_not_actived">Compte non activé</string>
+    <string name="micloud_active_email_visit">Visitez %s</string>
+    <string name="micloud_click_email_to_valid">"Cliquez sur lien d'activation dans le mail que nous vous avons envoyé."</string>
+    <string name="micloud_resend_active_email">"Réenvoyer le mail d'activation"</string>
+    <string name="micloud_about">" "<u>En savoir plus à propos de MiCloud</u>" "</string>
+    <string name="micloud_delete_account">Supprimer le compte</string>
+    <string name="micloud_active_email_sent_1">"Nous avons envoyé un lien d'activation dans votre boite de réception:"</string>
+    <string name="micloud_active_email_sent_2" />
+    <string name="micloud_click_email">"Cliquez sur le lien dans l'email pour activer votre compte XIAOMI"</string>
+    <string name="completed">Terminer</string>
+    <string name="header_data_and_synchronization">Données &amp; Synchronisation</string>
+    <string name="sync_one_time_sync">Touchez pour synchroniser（ %1$s )</string>
+    <string name="title_login">Se connecter à mon compte XIAOMI</string>
+    <string name="title_reg">Se connecter à mon compte XIAOMI</string>
+    <string name="title_activate">Activer votre compte XIAOMI</string>
+    <string name="micloud_account_label">Compte: %1$s</string>
+    <string name="sync_settings">Paramètres de sync.</string>
+    <string name="email_already_be_used">Adresse email déjà utilisée</string>
+    <string name="error_no_sms_service">Service SMS non disponible</string>
+    <string name="reg_by_email_failure">"Echec de l'enregistrement: %1$s"</string>
+    <string name="unactivated_user">Non activé</string>
+    <string name="reg_failed">"Echec de l'enregistrement"</string>
+    <string name="login_failed">"Echec de l'identification"</string>
+    <string name="error_network">Erreur réseau</string>
+    <string name="error_dup_phone">Le téléphone a bien été enregistré.</string>
+    <string name="error_server">Erreur de serveur</string>
+    <string name="error_sim_not_ready">Carte SIM non prête</string>
+    <string name="error_unknown">Erreur inconnue: %1$s</string>
+    <string name="quick_login_title">Authentification requise, saisissez votre mot de passe.</string>
+    <string name="account_name">Compte: %1$s</string>
+    <string name="input_password_hint">Saisissez le mot de passe</string>
+    <string name="confirm">Valider</string>
+    <string name="alert_title_remove_account">Supprimer le compte</string>
+    <string name="remove_account_notice">Que souhaitez-vous faire avec les données précédemment synchronisées sur cet appareil?</string>
+    <string name="data_keep_in_phone">Les conserver sur la carte SD</string>
+    <string name="data_wipe_from_phone">Les supprimer immédiatement</string>
+    <string name="login_notice">Identification...</string>
+    <string name="login_retry">Réessayer</string>
+    <string name="data_sync_notice">"Utisez votre compte pour synchroniser SMS/MMS, contacts, journaux d'appels et notes."</string>
+    <string name="sync_dspt">Utilisez votre compte XIAOMI pour la synchronisation</string>
+    <string name="sync_sub_dspt">Un SMS doit être envoyé pour activer le service</string>
+    <string name="send_sms_for_sync_title">Service non activé</string>
+    <string name="send_sms_for_sync_notice">"Autorisez vous l'envoi du SMS d'activation?"</string>
+    <string name="failed_to_send_activate_email">"Email d'activation non envoyé."</string>
+    <string name="access_denied">Accès refusé</string>
+    <string name="micloud_on_pc_notice">"Rendez-vous sur i.xiaomi.com
+pour gérer vos données."</string>
+    <string name="sync_on">Activé</string>
+    <string name="sync_off">Désactivé</string>
+    <string name="btn_activate">Activer</string>
+    <string name="no_sim">Pas de carte SIM, le service de synchronisation est indisponible</string>
+    <string name="sim_changed_notification_content">SIM non activée, merci de réactiver le service</string>
+    <string name="activating">Activation...</string>
+    <string name="check_phone_error_title">"Echec de l'activation du service de synchronisation"</string>
+    <string name="check_phone_io_error">Erreur réseau</string>
+    <string name="other_settings">Autres paramètres</string>
+    <string name="find_device">Géolocalisation de mon téléphone</string>
+    <string name="find_device_check_phone_error_title">"Echec de l'activation de la fonction"</string>
+    <string name="find_device_enabling">Activation...</string>
+    <string name="find_device_disabling">Désactivation...</string>
+    <string name="enable_find_device_error">"%1$s, Echec d'activation de la fonction"</string>
+    <string name="disable_find_device_error">%1$s, Echec de la désactivation de la fonction</string>
+    <string name="find_device_error_network">Réseau indisponible</string>
+    <string name="find_device_error_server">Erreur de serveur</string>
+    <string name="find_device_success_title">La fonction est activée</string>
+    <string name="i_know">"J'ai compris"</string>
+    <string name="find_device_disabled_title">Fonction désactivée</string>
+    <string name="find_device_disabled_notice">"Vous pourrez la réactiver via
+Paramètres -> Comptes &amp; synchronisation 
+-> Compte XIAOMI"</string>
+    <string name="user_agreement_p1">"En vous identifiant, vous acceptez intégralement
+les "</string>
+    <string name="user_agreement_p2">"conditions d'utilisation du service XIAOMI"</string>
+    <string name="user_agreement_p3"> et la  </string>
+    <string name="user_agreement_p4">politique de confidentialité</string>
+    <string name="user_agreement_p5">"En vous inscrivantant, vous acceptez intégralement
+les "</string>
+    <string name="skip_setup_account_title">Passer les paramètres de compte</string>
+    <string name="skip_setup_account_msg">En utilisant votre compte XIAOMI, vous pourrez synchroniser et sauvegarder contacts, photos, SMS, notes, etc. Continuer et paramétrer plus tard?</string>
+    <string name="account_dspt">"Votre compte XIAOMI peut synchroniser et sauvegarder vos SMS,
+contacts, photos, etc..."</string>
+    <string name="find_device_notice">"Si vous ne parvenez pas à trouver votre téléphone, rendez-vous sur
+my.xiaomi.com 
+pour le trouver, le verrouiller, ou en supprimer les données"</string>
+</resources>

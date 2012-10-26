@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mode Voiture</string>
+    <string name="contacts">Contacts</string>
+    <string name="music">Musique</string>
+    <string name="speech">"Recherche
+vocale"</string>
+    <string name="phone">Téléphone</string>
+    <string name="exit">"Quitter le 
+mode Voiture"</string>
+    <string name="settings">Paramètres</string>
+    <string name="ui_mode_night_no">Jour</string>
+    <string name="ui_mode_night_yes">Nuit</string>
+    <string name="ui_mode_night_auto">Automatique</string>
+    <string name="ui_mode_night_label">Mode Jour/Nuit</string>
+    <string name="navigate">Navigation</string>
+    <string name="maps">Google Maps</string>
+    <string name="places">Adresses</string>
+    <string name="speak_destination">Énoncer la destination</string>
+    <string name="label_add_shortcut">Ajouter un raccourci</string>
+    <string name="title_select_shortcut">Sélectionner un raccourci</string>
+    <string name="shortcut_item_car_apps">Applications en mode Voiture</string>
+    <string name="shortcut_item_all_apps">Autres applications</string>
+    <string name="car_activity_picker_label">Sélectionner une activité</string>
+    <string name="activity_not_found">Activité introuvable</string>
+    <string name="settings_always_show_disclaimer">Toujours afficher la clause de non-responsabilité</string>
+    <string name="settings_enable_hints">Activer les astuces</string>
+    <string name="settings_android_settings_title">Paramètres Android</string>
+    <string name="settings_reset_screens_section">Rétablir les paramètres par défaut</string>
+    <string name="reset_screen_title">Rétablir les paramètres par défaut</string>
+    <string name="reset_screen_message">Supprimer tous les paramètres et raccourcis personnalisés ?</string>
+    <string name="settings_hide_statusbar">"Masquer la barre d'état"</string>
+    <string name="settings_tint_color">Attribuer une couleur aux icônes</string>
+    <string name="dlg_title_tint_color">Choisir une couleur</string>
+    <string name="user_defined_color">Personnaliser votre couleur</string>
+    <string name="bt_launch_settings">Le Bluetooth lance le mode Voiture.</string>
+    <string name="bt_launch_settings_category">Passer en mode Voiture en cas de connexion avec :</string>
+    <string name="bt_launch_settings_summary">"Sélectionnez l'appareil associé pour lancer automatiquement le mode Voiture lorsqu'il est à portée du signal."</string>
+    <string name="bt_launch_settings_hint">"Pour pouvoir utiliser l'appareil, vous devez l'associer et activer le Bluetooth."</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bluetooth_starting">Activation…</string>
+    <string name="bluetooth_stopping">Désactivation…</string>
+    <string name="bluetooth_turn_on">Activer Bluetooth</string>
+    <string name="bluetooth_turn_off">Désactiver Bluetooth</string>
+    <string name="bluetooth_error">Erreur</string>
+    <string name="settings_wallpaper">"Fond d'écran"</string>
+    <string name="settings_wallpaper_summary" />
+    <string name="chooser_wallpaper">"Fond d'écran du mode Voiture"</string>
+    <string name="wallpaper_instructions">"Sélectionner un fond d'écran"</string>
+    <string name="pick_wallpaper">"Sélectionner un fond d'écran parmi ceux du mode Voiture"</string>
+    <string name="pick_sdcard_wallpaper">"Sélectionner un fond d'écran dans la galerie"</string>
+    <string name="system_wallpaper">"Identique à l'écran d'accueil"</string>
+    <string name="disconnect_category_title">Quitter le mode Voiture à la déconnexion</string>
+    <string name="disconnect_title">Délai</string>
+    <string name="disconnect_entry_never">Jamais</string>
+    <string name="disconnect_entry_immediately">Immédiatement</string>
+    <string name="disconnect_entry_5">Au bout de 5 secondes</string>
+    <string name="disconnect_entry_10">Au bout de 10 secondes</string>
+    <string name="disconnect_entry_30">Au bout de 30 secondes</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Annuler</string>
+    <string name="btn_accept">Continuer</string>
+    <string name="disclaimer_title">Clause de non-responsabilité</string>
+    <string name="disclaimer_agreement">"Soyez prudent si vous utilisez cette application et, surtout, ne manipulez pas votre mobile en conduisant.
+Restez toujours vigilant sur la route."</string>
+    <string name="disclaimer_tos">"Conditions d'utilisation"</string>
+    <string name="disclaimer_checkbox">Toujours afficher</string>
+    <string name="hint_title_voice_search">Essayez de dire :</string>
+    <string name="hint_voice_search_quotation_start">\"</string>
+    <string name="hint_voice_search_quotation_end">\"</string>
+    <string name="car_mode_enable_notification_title">Mode Voiture désactivé</string>
+    <string name="car_mode_enable_notification_message">Pour activer le mode Voiture.</string>
+    <string name="permlab_read_settings">Lire les paramètres et les raccourcis du mode Voiture</string>
+    <string name="permdesc_read_settings">Permet à une application de lire les paramètres et raccourcis du mode Voiture.</string>
+    <string name="permlab_write_settings">Enregistrer les paramètres du mode Voiture et les raccourcis</string>
+    <string name="permdesc_write_settings">Permet à une application de modifier les paramètres et les raccourcis du mode Voiture.</string>
+</resources>

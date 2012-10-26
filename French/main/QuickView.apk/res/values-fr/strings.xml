@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuickView</string>
+    <string name="camera_toss">Effacer</string>
+    <string name="camera_share">Partager</string>
+    <string name="camera_set">Définir comme</string>
+    <string name="video_play">Lire</string>
+    <string name="camera_history">Historique</string>
+    <string name="OK_STRING">OK</string>
+    <string name="gridview_cancelbutton_text">Annuler</string>
+    <string name="no_way_to_share_image">"Pas d'application pour partager la photo"</string>
+    <string name="no_way_to_share_video">"Pas d'application pour partager la vidéo"</string>
+    <string name="confirm_delete_title">Effacer</string>
+    <string name="confirm_delete_message">"L'image sera effacée"</string>
+    <string name="confirm_delete_video_message">La vidéo sera effacée</string>
+    <string name="setImage">"Définir l'image comme"</string>
+    <string name="sendImage">"Partager l'image via"</string>
+    <string name="sendVideo">Partager la vidéo via</string>
+    <string name="preparing_sd">Préparation de la carte SD…</string>
+    <string name="media_scanner_running">Scanner de fichiers média en cours...</string>
+    <string name="no_sdcard">Pas de carte SD détectée</string>
+    <string name="no_media_found">"Pas d'objet"</string>
+    <string name="OPTION_1">OPTION 1</string>
+    <string name="OPTION_2">OPTION 2</string>
+    <string name="OPTION_3">OPTION 3</string>
+    <string name="no_have_video">Fichier vidéo inexistant ou ficher invalide</string>
+    <string name="camera_more">Plus</string>
+    <string name="rename">Renommer</string>
+    <string name="rename_dialog_message">Entrez le nouveau nom</string>
+    <string name="name_is_empty">Le nom est vide</string>
+    <string name="already_exists">Déjà existant</string>
+    <string name="unable_to_rename">Impossible de renommer</string>
+    <string name="failed_to_rename">Echec de renommage</string>
+    <string name="invalid_character">Caratère non valide</string>
+    <string name="max_char_reached_msg">Nombre max de caractère atteint</string>
+    <string name="menu_kodak">Kodak</string>
+    <string name="menu_snapfish">Snapfish</string>
+    <string name="Title_SetDefDest">Définir la destination par défaut</string>
+    <string name="My_Album_Online">Mon Album en ligne</string>
+    <string name="include_default_destination">Destination par défaut</string>
+    <string name="Title_Dest">"Dest par
+défaut."</string>
+    <string name="app_recent_recipients">Destinataires récents</string>
+    <string name="app_new_number">Nouveau numéro</string>
+    <string name="app_new_email">Nouvel email</string>
+    <string name="DEST_RECENTRECIPIENT">"Destinataire
+ récent"</string>
+    <string name="DEST_PHONEBOOK">"Carnet
+ d'adresse"</string>
+    <string name="DEST_NEWNUMBER">"Nouveau
+ numéro"</string>
+    <string name="DEST_NEWEMAIL">"Nouvel
+ Email"</string>
+    <string name="DEST_ONLINEALBUM">"Album
+ en ligne"</string>
+    <string name="DEST_CURRENTDEST">"Destinations
+ actuelles"</string>
+    <string name="CURRENTDESTINATION_REPLACE">Remplacer</string>
+    <string name="CURRENTDESTINATION_REMOVE">Retirer</string>
+    <string name="remove_dialog">Etes vous certain de vouloir retirer?</string>
+    <string name="remove_dialog_removed">Retiré</string>
+    <string name="remove_dialog_canceled">Annulé</string>
+    <string name="Send_to">Envoyer à</string>
+    <string name="Dialog_Yes">Oui</string>
+    <string name="Dialog_No">Non</string>
+    <item type="string" name="APKTOOL_DUMMY_0038">false</item>
+</resources>
